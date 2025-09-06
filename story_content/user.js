@@ -2,356 +2,368 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6LytZx5XEYu":
+      case "6LqlQtnHp9p":
         Script1();
         break;
-      case "6N3HYSVXLcs":
+      case "5hHLX3mQPjR":
         Script2();
         break;
-      case "6DVZrdbhpCK":
+      case "5xGutLmK2I8":
         Script3();
         break;
-      case "5v5ocYTiSXb":
+      case "5mdoc48Htem":
         Script4();
         break;
-      case "5keBYTUzDEs":
+      case "6o4AnMHRtaZ":
         Script5();
         break;
-      case "6bhvi3FaxRX":
+      case "5plUBZjwZ3a":
         Script6();
         break;
-      case "5oABPxXn5PY":
+      case "6XDOzl5wwHn":
         Script7();
         break;
-      case "6D4NrHXPsvC":
+      case "6i5Ksvdn7qk":
         Script8();
         break;
-      case "61ZcgYYDVuA":
+      case "6lrWAaJkWJm":
         Script9();
         break;
-      case "5W1PcO9oHQk":
+      case "5yHuaePjyZn":
         Script10();
         break;
-      case "6B8lN6GJ3NL":
+      case "5XiajRjJKvA":
         Script11();
         break;
-      case "6HXbAgP2vQa":
+      case "6Pu9tal6nsV":
         Script12();
         break;
-      case "6ACJWsLJFe7":
+      case "6Dst8Ho8H7H":
         Script13();
         break;
-      case "6hNvlf3IzVf":
+      case "6oNgM4jOfRA":
         Script14();
         break;
-      case "618KAZVctDM":
+      case "5o5dBlusBmQ":
         Script15();
         break;
-      case "6XCQZilWxzZ":
+      case "5xhhYQfVrfR":
         Script16();
         break;
-      case "5gEhApQZPR3":
+      case "6M6gpEdzwlg":
         Script17();
         break;
-      case "5ot33xuiSAB":
+      case "5VFoShEdX5B":
         Script18();
         break;
-      case "6la6FAE7T9m":
+      case "61k1US8XiDc":
         Script19();
         break;
-      case "5sxKfLozPBU":
+      case "62s5DtpVMVE":
         Script20();
         break;
-      case "5rZ6oU03nqP":
+      case "5jCC4lZqJVN":
         Script21();
         break;
-      case "5e1wtVsMk1g":
+      case "6AtGUo74HWR":
         Script22();
         break;
-      case "5b1fc4JJ6pw":
+      case "6OTJeiIeCTe":
         Script23();
         break;
-      case "6Vyl9F8vJyi":
+      case "6guGXUOtnQP":
         Script24();
         break;
-      case "6VjzckTOq11":
+      case "60UGF7cY3ON":
         Script25();
         break;
-      case "6JwGkNRwX8l":
+      case "6EqiaYW84bl":
         Script26();
         break;
-      case "60GCdb6jWTV":
+      case "5nDeE2QRU62":
         Script27();
         break;
-      case "5ydcPuSG1yQ":
+      case "5cdHTkB5oD4":
         Script28();
         break;
-      case "6FyIEIy5GKK":
+      case "5sexNYt4xKy":
         Script29();
         break;
-      case "5tOj0N4Gom5":
+      case "5YjEr9HF9KV":
         Script30();
         break;
-      case "5XkmLPFO4sp":
+      case "5YphA7gN3Ki":
         Script31();
         break;
-      case "5YMjkW1BvoT":
+      case "6CWzm0kcKNj":
         Script32();
         break;
-      case "6o6yKoYed7u":
+      case "6VE4f2zlbLr":
         Script33();
         break;
-      case "5oNnJE6Pd3N":
+      case "65udFvX6DLs":
         Script34();
         break;
-      case "6SLhcZYTnYq":
+      case "6mugBSfrhiy":
         Script35();
         break;
-      case "6fZbjR7jZk4":
+      case "5qVb7nkYIXp":
         Script36();
         break;
-      case "69J0t7ganjz":
+      case "6hDbEaXT2V0":
         Script37();
         break;
-      case "6GHrbcMfKHQ":
+      case "5aDWoOw3f2B":
         Script38();
         break;
-      case "5yL7ZjAkyRx":
+      case "6KiciUgx4pm":
         Script39();
         break;
-      case "5WMyqjvrSbN":
+      case "61EfecgXYfc":
         Script40();
         break;
-      case "6B7rvVND4XX":
+      case "5kAFKNXr03o":
         Script41();
         break;
-      case "6p0fz3ZsO7L":
+      case "62rOtys9R18":
         Script42();
         break;
-      case "67hxoh1eNLd":
+      case "6hNicZzdM2h":
         Script43();
         break;
-      case "5fPLW0LSivp":
+      case "5ms5FQnORRb":
         Script44();
         break;
-      case "6Bc6dPfmC1j":
+      case "5hOLOQNJ4GZ":
         Script45();
         break;
-      case "6O4UWiJM71r":
+      case "68zGZbO72vf":
         Script46();
         break;
-      case "6TKfc5MWLhY":
+      case "5VOdaZGVTOB":
         Script47();
         break;
-      case "6MzKjoDAEaF":
+      case "5yVg7QgZTJa":
         Script48();
         break;
-      case "6W6uxBeGVmV":
+      case "6bpqqe4B5Sh":
         Script49();
         break;
-      case "5b3yLQzeY6n":
+      case "6a5c5Gw1qQZ":
         Script50();
         break;
-      case "63hH9hXyzQi":
+      case "5rp5o8MH4ay":
         Script51();
         break;
-      case "694Ce6Ji9kv":
+      case "5w5uJGmo5cs":
         Script52();
         break;
-      case "5q2rzUQSnfx":
+      case "6NkQEHKZ38e":
         Script53();
         break;
-      case "6O6ZagBNJxi":
+      case "69lB3GaiBKE":
         Script54();
         break;
-      case "66gyVVvOW9V":
+      case "5o3jbZbX812":
         Script55();
         break;
-      case "5uo0J8g4KhV":
+      case "63LFjgxtKar":
         Script56();
         break;
-      case "6XERo1tVkDF":
+      case "690j9WlHykK":
         Script57();
         break;
-      case "6FOtSM6lsKu":
+      case "5vqQsGtJ33N":
         Script58();
         break;
-      case "6oAduUMhIoZ":
+      case "6c0HmjTx9ri":
         Script59();
         break;
-      case "6T860Zv8szb":
+      case "5vyfJBenCXM":
         Script60();
         break;
-      case "5ymSB3oKBeC":
+      case "5p7T9oq3Vr7":
         Script61();
         break;
-      case "6D4NjI3cKqS":
+      case "6a1fzwGRCJx":
         Script62();
         break;
-      case "5nLDGhnlPA6":
+      case "6VdQVpiTn5v":
         Script63();
         break;
-      case "5auqXvhBCn9":
+      case "6XdnnGdlxYk":
         Script64();
         break;
-      case "687BtQedXn3":
+      case "63JPtl2G3Bt":
         Script65();
         break;
-      case "6TyFaUuWnoK":
+      case "6TrOhfqLsO0":
         Script66();
         break;
-      case "5m39fVKHA8a":
+      case "5Xmw7790607":
         Script67();
         break;
-      case "6BzhNqOGhOa":
+      case "5apismGG8JB":
         Script68();
         break;
-      case "5UyFkHNpaGc":
+      case "5nxoA7NmIkD":
         Script69();
         break;
-      case "6UmzCNeP10Y":
+      case "6AVTOnubOSc":
         Script70();
         break;
-      case "6kXLeTH2e7s":
+      case "64F0p9WuY6B":
         Script71();
         break;
-      case "5wR7lHDyNkU":
+      case "5W5M7olnTMM":
         Script72();
         break;
-      case "6Z6JLVuBO6c":
+      case "6k95ae4nQXf":
         Script73();
         break;
-      case "5tTVVAwtqk3":
+      case "5ybQKnBfgE5":
         Script74();
         break;
-      case "6kUlsUFbd6M":
+      case "61OT28XNYvz":
         Script75();
         break;
-      case "5e0b147SWLh":
+      case "65rUHEOI4ms":
         Script76();
         break;
-      case "6eu7kILdlmK":
+      case "5k5YhS4WDk1":
         Script77();
         break;
-      case "5sVt9yi1g9F":
+      case "668K7l4HiJ5":
         Script78();
         break;
-      case "6Phpz4cAuT9":
+      case "5u68zg4AXFP":
         Script79();
         break;
-      case "6Pdwj9BhXuU":
+      case "5hRDwccVRHs":
         Script80();
         break;
-      case "6gwsLVWHjpo":
+      case "6ern8UMl4Ya":
         Script81();
         break;
-      case "5nvMcgrwXoD":
+      case "68jjGOWdsYw":
         Script82();
         break;
-      case "6aLI6JhWTGI":
+      case "6f7svBVegkD":
         Script83();
         break;
-      case "5b95ZW5vLKA":
+      case "6CDiPcaNoKN":
         Script84();
         break;
-      case "6Y2TkVAN7wK":
+      case "6C2H6mUEctZ":
         Script85();
         break;
-      case "6rh6eyws2Hb":
+      case "6my2LXpN7GX":
         Script86();
         break;
-      case "6AhpRD46LKN":
+      case "5zl7MYbbVLh":
         Script87();
         break;
-      case "6SOAT3UPp6J":
+      case "6ixVJQSn1DP":
         Script88();
         break;
-      case "6TPDTN6Gv2B":
+      case "6ZDXFvU4O3j":
         Script89();
         break;
-      case "5qsMYK5RAPe":
+      case "5rALpnbZCVT":
         Script90();
         break;
-      case "61DJGD8LKCD":
+      case "6hyyhaZxSXD":
         Script91();
         break;
-      case "6aQxOwQPbro":
+      case "65Ss8r5Why8":
         Script92();
         break;
-      case "6S7GB8JlERM":
+      case "5tP6lXHdfR0":
         Script93();
         break;
-      case "5t7z5XPufb9":
+      case "6ODjK6b9dMp":
         Script94();
         break;
-      case "6WkURVjyNNp":
+      case "6iCPnTzVbwr":
         Script95();
         break;
-      case "6YLaH7YBH1e":
+      case "5eGTpRQTlLJ":
         Script96();
         break;
-      case "5hDCzZf5RQk":
+      case "6AtmAhKqNMj":
         Script97();
         break;
-      case "5j1qKn7qjvY":
+      case "6KDBQiQKb4q":
         Script98();
         break;
-      case "5vjWYaarf4K":
+      case "5sC1I4E9d0X":
         Script99();
         break;
-      case "6Pe81mPI1rw":
+      case "6cAzmCobKOF":
         Script100();
         break;
-      case "6PXvUSorLUS":
+      case "69R5OVAlN0P":
         Script101();
         break;
-      case "6axGj8TkOQm":
+      case "6ckehbZBIjJ":
         Script102();
         break;
-      case "6EJSMteIWst":
+      case "5ib577szwfD":
         Script103();
         break;
-      case "65tOV7s1IZB":
+      case "5xYmLZb2xCs":
         Script104();
         break;
-      case "6joSriAvEaF":
+      case "6PuPEXsTLU3":
         Script105();
         break;
-      case "6KHSCVc0JFK":
+      case "5VleGWd6PaC":
         Script106();
         break;
-      case "5x6f1xj47pw":
+      case "6ltODNaxG8G":
         Script107();
         break;
-      case "6YiTzglXwMj":
+      case "6nzTx5FT4cO":
         Script108();
         break;
-      case "6UPIxL5iLVQ":
+      case "5Y7zrfdoJuP":
         Script109();
         break;
-      case "5kH8YjEJku3":
+      case "66pkiJIQaB0":
         Script110();
         break;
-      case "5oKYSYXsk12":
+      case "5bTxs1UWALq":
         Script111();
         break;
-      case "5lRJ56Rpd4P":
+      case "6mqyOGsZcqL":
         Script112();
         break;
-      case "6Axrwwv9WAc":
+      case "6cUc9DdFODK":
         Script113();
         break;
-      case "5WN0H3FWYG6":
+      case "5W21BI5jeDJ":
         Script114();
         break;
-      case "6n7zxNj5Zlh":
+      case "610NTCCugBf":
         Script115();
         break;
-      case "5xwtEm9voyL":
+      case "6p8MCcHNHqq":
         Script116();
         break;
-      case "6ZfdJr1DvN2":
+      case "6rbOdL3Oxy2":
         Script117();
+        break;
+      case "6mOuobICqZ7":
+        Script118();
+        break;
+      case "5uCtX68AOlG":
+        Script119();
+        break;
+      case "6MAie3RviAK":
+        Script120();
+        break;
+      case "5wSqZ7ecWZz":
+        Script121();
         break;
   }
 }
@@ -883,6 +895,30 @@ function Script81()
 
 function Script82()
 {
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script83()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script84()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script85()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script86()
+{
   var player = GetPlayer();
 
 
@@ -909,30 +945,6 @@ SheetsSet('Nama Lengkap', namaLengkap);
 SheetsSet('Kelas', kelas);
 
 SheetsSet('Nilai Kuis Sub Materi 3', nilaiGabungan);
-}
-
-function Script83()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
-}
-
-function Script84()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
-}
-
-function Script85()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
-}
-
-function Script86()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
 }
 
 function Script87()
@@ -1039,6 +1051,30 @@ function Script103()
 
 function Script104()
 {
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script105()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script106()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script107()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script108()
+{
   var player = GetPlayer();
 
 
@@ -1065,30 +1101,6 @@ SheetsSet('Nama Lengkap', namaLengkap);
 SheetsSet('Kelas', kelas);
 
 SheetsSet('Nilai Asesmen Sumatif', nilaiGabungan);
-}
-
-function Script105()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
-}
-
-function Script106()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
-}
-
-function Script107()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
-}
-
-function Script108()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
 }
 
 function Script109()
@@ -1140,6 +1152,30 @@ function Script116()
 }
 
 function Script117()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script118()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script119()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script120()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script121()
 {
   if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
         
