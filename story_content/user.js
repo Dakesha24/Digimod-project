@@ -2,500 +2,503 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6jEeqi2HaoO":
+      case "6f31d4h16vI":
         Script1();
         break;
-      case "6KSVAYMdIu5":
+      case "6Vaqwl41QH6":
         Script2();
         break;
-      case "6HCOL4swdbU":
+      case "66iJeNQyqBt":
         Script3();
         break;
-      case "5tn85X82wrV":
+      case "6FdCzm14bN8":
         Script4();
         break;
-      case "5xEXO74nNN0":
+      case "5vX5xjqEwb8":
         Script5();
         break;
-      case "6WQOf9KaWoH":
+      case "6obaG4RFhjf":
         Script6();
         break;
-      case "6N0sShVXK4M":
+      case "6opVrTsb8qg":
         Script7();
         break;
-      case "6IEnm38IRvk":
+      case "5Xv4u0GkKbV":
         Script8();
         break;
-      case "5wuQzJCw79p":
+      case "6DoeYQNSFrc":
         Script9();
         break;
-      case "5ZVoqmXwNLG":
+      case "5ZaHDJzLMsx":
         Script10();
         break;
-      case "6CfRIe9wu8V":
+      case "6adnKj7MV6S":
         Script11();
         break;
-      case "6GzVNvjgbkM":
+      case "5wL0AYZ6LCU":
         Script12();
         break;
-      case "6FqsLLCeVa0":
+      case "6LBK4GK5qH2":
         Script13();
         break;
-      case "5v03yBiCsjz":
+      case "61XT09VZykc":
         Script14();
         break;
-      case "6c1EwzcBUOT":
+      case "6fMR0BaRohT":
         Script15();
         break;
-      case "5ssEQJ0fRfs":
+      case "6Qr0eKlNB67":
         Script16();
         break;
-      case "5xM6VATClao":
+      case "60XojXp50uP":
         Script17();
         break;
-      case "5vRsSRYvvTt":
+      case "5Y47H9Tu8nV":
         Script18();
         break;
-      case "6f0hNe82fM1":
+      case "5YS4fLWyHdj":
         Script19();
         break;
-      case "6nv1uvEVyvh":
+      case "6KvB2uKaHf4":
         Script20();
         break;
-      case "5x2DFRzho7N":
+      case "6nSGY1Ewi36":
         Script21();
         break;
-      case "6qbE1r3Xkpk":
+      case "6EpxmnLoLGs":
         Script22();
         break;
-      case "6BBH0N6Xt7s":
+      case "5cc9QdCLlq3":
         Script23();
         break;
-      case "6Fo035nQWii":
+      case "6a3iGyr7OA6":
         Script24();
         break;
-      case "5c9GT4tYa0k":
+      case "6rcTKW38TtG":
         Script25();
         break;
-      case "61ciZNRvzWk":
+      case "5o0PUs16mZ9":
         Script26();
         break;
-      case "6T2jv8W36u9":
+      case "6aEtKGLqwGn":
         Script27();
         break;
-      case "6qjbKfSQEXv":
+      case "5sQcjVvfEk5":
         Script28();
         break;
-      case "6QuICKqQG3C":
+      case "692miNC6bT2":
         Script29();
         break;
-      case "6dqRjG8UR8t":
+      case "6HUMh7daKtY":
         Script30();
         break;
-      case "6McJYgk7R2q":
+      case "6a9PgKNmnXz":
         Script31();
         break;
-      case "5qlKBaPzCRf":
+      case "5XIaL8GIh1n":
         Script32();
         break;
-      case "5pDvqnMS4pb":
+      case "6aRWs7vLGxM":
         Script33();
         break;
-      case "5l4baHdaNw3":
+      case "6HxDtxVfgeM":
         Script34();
         break;
-      case "6YlX0og4XrH":
+      case "6XPcwR2Quea":
         Script35();
         break;
-      case "6bgjRFlrMky":
+      case "5e3Osav6wKH":
         Script36();
         break;
-      case "5ovwrZnkTxs":
+      case "5pSrLwsX748":
         Script37();
         break;
-      case "5hC3VxZRY99":
+      case "6nZ8lC9kas1":
         Script38();
         break;
-      case "62F87FqsjmT":
+      case "6ZSCyqyhqHH":
         Script39();
         break;
-      case "68NU7yQrcld":
+      case "5zLYB5KCnQ0":
         Script40();
         break;
-      case "6ev45uf1Nu9":
+      case "5yDhvlhu7O3":
         Script41();
         break;
-      case "6ODmVSx9EWT":
+      case "6mriRxctZmf":
         Script42();
         break;
-      case "6FxHTpqArbp":
+      case "6QksjrIRgnx":
         Script43();
         break;
-      case "6GQYHX9EKfJ":
+      case "6H1xjYVmw6Z":
         Script44();
         break;
-      case "62lz7SHTeLC":
+      case "5VOnrnNVxBT":
         Script45();
         break;
-      case "5iV1tFY3KQR":
+      case "5fudaStWvr1":
         Script46();
         break;
-      case "6oivP6LqPFN":
+      case "6NHlNbo2Zlu":
         Script47();
         break;
-      case "6RxEpP9Sv4c":
+      case "5VhJGBYtWcQ":
         Script48();
         break;
-      case "606QEjaT44E":
+      case "5repOLMQMFn":
         Script49();
         break;
-      case "5meLfdV2Et2":
+      case "5dk2ARBdP0e":
         Script50();
         break;
-      case "6AF7QvEcaKD":
+      case "5ijcKmrHFXt":
         Script51();
         break;
-      case "68FMy7Oimzq":
+      case "5gy3ObtXXI7":
         Script52();
         break;
-      case "6CB9qjzspxp":
+      case "6LMjELJMvzu":
         Script53();
         break;
-      case "6pU9liwTGbe":
+      case "5evpN7bonPL":
         Script54();
         break;
-      case "6qP4ECTp2Gx":
+      case "65hPi51mST6":
         Script55();
         break;
-      case "6P6BD4neFgi":
+      case "5XRuJmYqFfV":
         Script56();
         break;
-      case "68iwDYqwWEz":
+      case "5XntDOICsg3":
         Script57();
         break;
-      case "6eszS7ch345":
+      case "6ngQWCTNfFS":
         Script58();
         break;
-      case "5w0pfVwUzK9":
+      case "6QkiylGukeT":
         Script59();
         break;
-      case "6iwYpSVOz5V":
+      case "5mWHKKUQ7w5":
         Script60();
         break;
-      case "6Rv35RL58J0":
+      case "6VZjMMEijLz":
         Script61();
         break;
-      case "6QBPB3BqF1b":
+      case "656XpxtUkwr":
         Script62();
         break;
-      case "6bUWBXUFIAJ":
+      case "6GgMylD8zbg":
         Script63();
         break;
-      case "5txmFkilczy":
+      case "6LT7cMbq98U":
         Script64();
         break;
-      case "6J8ocK0Poel":
+      case "6aoO0E5bSW0":
         Script65();
         break;
-      case "6UcT0CLrXLm":
+      case "5dIkvPwAY4m":
         Script66();
         break;
-      case "6XgYdDvXADC":
+      case "6RMNBBwjnn9":
         Script67();
         break;
-      case "6YVrNEzIvfl":
+      case "6RB7XwpD4et":
         Script68();
         break;
-      case "5sc1sXMnzsr":
+      case "6NV5OsDFrYQ":
         Script69();
         break;
-      case "6GHKJaN5JxG":
+      case "6OAbL33L2D8":
         Script70();
         break;
-      case "5lXqA9CeOxc":
+      case "5VibjKb6n0r":
         Script71();
         break;
-      case "5hxpKuIsxLI":
+      case "5vlwF88OoTi":
         Script72();
         break;
-      case "5qtR3m7mZPh":
+      case "6qCG6iqX2kT":
         Script73();
         break;
-      case "5bcuUMKowNS":
+      case "6nIWKLeEskE":
         Script74();
         break;
-      case "5Yy2MZstt21":
+      case "5kOWsMtHJ5M":
         Script75();
         break;
-      case "6nTY1Wvs1U4":
+      case "6gjQOim6YyD":
         Script76();
         break;
-      case "6LRDPvfa78e":
+      case "6gBPcyijoZ8":
         Script77();
         break;
-      case "6dWJD6XtFN6":
+      case "6cqYx6BzWKA":
         Script78();
         break;
-      case "6gJjALpFRyU":
+      case "5e5RYCKaSNG":
         Script79();
         break;
-      case "6U1swmR6Ybp":
+      case "6EUxkkWFqOr":
         Script80();
         break;
-      case "5mw1Q60lEaE":
+      case "5pMxND0CNG8":
         Script81();
         break;
-      case "5uL0rkEpxXP":
+      case "5yOY0fIapAZ":
         Script82();
         break;
-      case "6mr6Locjf5a":
+      case "5WAifmMbYdf":
         Script83();
         break;
-      case "5crrvxOYPjn":
+      case "5kubIKv0bOJ":
         Script84();
         break;
-      case "6fUS5XTWG9f":
+      case "6Tkaxwkk3lM":
         Script85();
         break;
-      case "5y9SVEyeBnr":
+      case "6D0ERBtWVBI":
         Script86();
         break;
-      case "6kxQOPCzcTf":
+      case "6PdXqOGNUla":
         Script87();
         break;
-      case "6eMepOfo0DG":
+      case "6nUr9UFwOru":
         Script88();
         break;
-      case "5psM2upneJa":
+      case "6Er0zDA5Nl8":
         Script89();
         break;
-      case "5kA2jStCdNS":
+      case "5myfBIEkEeH":
         Script90();
         break;
-      case "6hnu9Gr5Ocq":
+      case "5rLYWLiM4SI":
         Script91();
         break;
-      case "5mdOhHmPtwh":
+      case "5pWS47nYDO9":
         Script92();
         break;
-      case "5lIUioRZl1X":
+      case "6E8LQIZB8OB":
         Script93();
         break;
-      case "5mXBV1hpda5":
+      case "6mTlaojBHY9":
         Script94();
         break;
-      case "5oP32f4uXDD":
+      case "6rZcwULbOZN":
         Script95();
         break;
-      case "5tBrvUmJUPh":
+      case "6ItHb2UQzkv":
         Script96();
         break;
-      case "6Uf03arGoUU":
+      case "6m6U4BnlXe2":
         Script97();
         break;
-      case "6SOpzEYeXFE":
+      case "6ZBbiaqZmTC":
         Script98();
         break;
-      case "6TqqmMKzX3b":
+      case "5uCVDrdiptT":
         Script99();
         break;
-      case "6RxDYR7vuem":
+      case "6AdkqsBx36N":
         Script100();
         break;
-      case "5e85fgp0dHX":
+      case "6YGkP36R3W4":
         Script101();
         break;
-      case "5sjaosy6tLG":
+      case "5no2H2c3AFE":
         Script102();
         break;
-      case "6YnrptMVnUs":
+      case "5ir5E9BAJKk":
         Script103();
         break;
-      case "6Y604XSkm6m":
+      case "6UPI7aznK4g":
         Script104();
         break;
-      case "6Iq0Cea1AX9":
+      case "6ARGVrtgMJv":
         Script105();
         break;
-      case "6XuKkVlMoOZ":
+      case "5gQDlY2sV8l":
         Script106();
         break;
-      case "6VZC5TS5td7":
+      case "6gSbCR1QBuO":
         Script107();
         break;
-      case "5cRfMP59L2Q":
+      case "5vPMujm8rVo":
         Script108();
         break;
-      case "6mgHJ7TQNsC":
+      case "5w0fAoWXC7a":
         Script109();
         break;
-      case "6EMNVtfdORK":
+      case "5nALFn0bhUj":
         Script110();
         break;
-      case "5xzRkvNfu4k":
+      case "5zRufB5xPCw":
         Script111();
         break;
-      case "6Ohj3PQ7X2Q":
+      case "65IFdooqOwG":
         Script112();
         break;
-      case "6Ili16Tgjx0":
+      case "5opNztwdLvT":
         Script113();
         break;
-      case "5cFtcXbwWt7":
+      case "65RV7cMCJjZ":
         Script114();
         break;
-      case "5bR9LT3x6ZE":
+      case "6fCC9VTjAx4":
         Script115();
         break;
-      case "5er0PtDVCO4":
+      case "67XGy0HP2xO":
         Script116();
         break;
-      case "5YCLdyVMpCl":
+      case "5djBnaTi4pt":
         Script117();
         break;
-      case "6Fh0ha6hze3":
+      case "5hLCQR6i4g9":
         Script118();
         break;
-      case "5vLOlhFfwYl":
+      case "5YD74padhQf":
         Script119();
         break;
-      case "6qt9l7H3olm":
+      case "5vLxopGLiy5":
         Script120();
         break;
-      case "67H0TaFUMiQ":
+      case "63lmC0256L8":
         Script121();
         break;
-      case "5efNsepunDN":
+      case "5phVb8ixbIE":
         Script122();
         break;
-      case "6ZeKCgciwTd":
+      case "6cuWtI9MkTA":
         Script123();
         break;
-      case "691JLKgEadO":
+      case "6JYvO4mm4KW":
         Script124();
         break;
-      case "5dsrQMrlrtj":
+      case "5rpJMR0x4w6":
         Script125();
         break;
-      case "5xgtL8AmUwh":
+      case "6Wusx6DaJlf":
         Script126();
         break;
-      case "6nQMhV14oPG":
+      case "6RSgMTpTiai":
         Script127();
         break;
-      case "5u81u5eQddd":
+      case "5fHAJDHHHwv":
         Script128();
         break;
-      case "6nnvRVy0clc":
+      case "61OoVar6BTj":
         Script129();
         break;
-      case "6bhdM3ywN8O":
+      case "6W6VkmAHnK2":
         Script130();
         break;
-      case "5sSJa3CWaEX":
+      case "5WsBJNLdcJE":
         Script131();
         break;
-      case "66Rx8zmsmf6":
+      case "5lQH3YBqcW6":
         Script132();
         break;
-      case "6ayDwiEP1e4":
+      case "6E7oiboQ6Yt":
         Script133();
         break;
-      case "6m1Lz30CxuW":
+      case "6Aw3Jlbf0mg":
         Script134();
         break;
-      case "6fxbpVU5qSX":
+      case "6ZlaqY3oHPm":
         Script135();
         break;
-      case "6SnxOd3lycK":
+      case "6EGP5JH2L1a":
         Script136();
         break;
-      case "6EgLOxIrK1T":
+      case "61s36sDarj0":
         Script137();
         break;
-      case "5tquyMjC8OC":
+      case "6oNFjFVxWFY":
         Script138();
         break;
-      case "6ZGWHGgirJD":
+      case "6p27imZ6nkw":
         Script139();
         break;
-      case "6q6ObbO2Q2v":
+      case "5fQQTN1bsIK":
         Script140();
         break;
-      case "5rLTPNl9bcO":
+      case "663p8QQ7KYo":
         Script141();
         break;
-      case "5WXnVQYhlZJ":
+      case "5kbGHBUrCI2":
         Script142();
         break;
-      case "6d49acF0beV":
+      case "6SH6qRGN970":
         Script143();
         break;
-      case "6oGCz2ZMa2d":
+      case "6EDLEKW68VE":
         Script144();
         break;
-      case "6Vp0iMfK5Er":
+      case "5v2LN9oMnxH":
         Script145();
         break;
-      case "5cjMrwT4TJV":
+      case "6g1ASHSUlMp":
         Script146();
         break;
-      case "6Pmj2ZVnWRM":
+      case "6UGLbZHmBlb":
         Script147();
         break;
-      case "5si3Azqk6oJ":
+      case "6rbErKIIUuk":
         Script148();
         break;
-      case "6rKIPRGu7tm":
+      case "6UmaoQaI5sH":
         Script149();
         break;
-      case "6PCnwLmGsIy":
+      case "6QXGGjZkFo1":
         Script150();
         break;
-      case "6gFjqjy3s5j":
+      case "5kvlWcsO2i9":
         Script151();
         break;
-      case "5heP2nUaFfJ":
+      case "6kzXKAj0OIb":
         Script152();
         break;
-      case "5zT6r4NpG6a":
+      case "6obvDgSJLzA":
         Script153();
         break;
-      case "6DqEgdvC8ke":
+      case "5xkAJxqCpjd":
         Script154();
         break;
-      case "6pKgJv0AYAK":
+      case "6eZALGUaq7e":
         Script155();
         break;
-      case "61c9MMUOMBj":
+      case "6P5cYHYNo3n":
         Script156();
         break;
-      case "5kbVcePr4Lj":
+      case "6aLETBLy8UK":
         Script157();
         break;
-      case "6lNvPXICDSw":
+      case "6kOaiuiDXW5":
         Script158();
         break;
-      case "5maGrU2iFqv":
+      case "67UH68uxEzO":
         Script159();
         break;
-      case "6H2SXuyKC6p":
+      case "6dYGbFm9GqK":
         Script160();
         break;
-      case "5poAsRlwfAj":
+      case "6bjxEgrPtUI":
         Script161();
         break;
-      case "6iIk9nXujOd":
+      case "5sSUlDvKkt5":
         Script162();
         break;
-      case "5sdEYQu5KHE":
+      case "5dXldQUXuTR":
         Script163();
         break;
-      case "5vZvVsOkCsE":
+      case "64D4aLwKPa0":
         Script164();
         break;
-      case "6EhoUMoTYOy":
+      case "5tYEGtfFwAv":
         Script165();
+        break;
+      case "5nd1bP1eFf7":
+        Script166();
         break;
   }
 }
@@ -1030,6 +1033,12 @@ function Script79()
 
 function Script80()
 {
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script81()
+{
   var player = GetPlayer();
 
 var namaLengkap = player.GetVar('NamaLengkap');
@@ -1041,12 +1050,6 @@ SheetsSet('Kelas', kelas);
 SheetsSet('AYO MENCOBA Materi 3 (Bagian Perkalian Dot)', AM1);
 }
 
-function Script81()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
-}
-
 function Script82()
 {
   if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
@@ -1054,6 +1057,12 @@ function Script82()
 }
 
 function Script83()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script84()
 {
   var player = GetPlayer();
 
@@ -1064,12 +1073,6 @@ var cross1 = player.GetVar('Cross1');
 SheetsSet('Nama Lengkap', namaLengkap);
 SheetsSet('Kelas', kelas);
 SheetsSet('AYO MENCOBA Materi 3 (Bagian Perkalian Cross)', cross1);
-}
-
-function Script84()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
 }
 
 function Script85()
@@ -1182,6 +1185,12 @@ function Script102()
 
 function Script103()
 {
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script104()
+{
   var player = GetPlayer();
 
 var namaLengkap = player.GetVar('NamaLengkap');
@@ -1193,13 +1202,13 @@ SheetsSet('Kelas', kelas);
 SheetsSet('Nilai Perbaikan Kuis Materi 3', skorPerbaikan3);
 }
 
-function Script104()
+function Script105()
 {
   if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
         
 }
 
-function Script105()
+function Script106()
 {
   var player = GetPlayer();
 
@@ -1219,12 +1228,6 @@ SheetsSet('Nama Lengkap', namaLengkap);
 SheetsSet('Kelas', kelas);
 
 SheetsSet('Nilai Kuis Materi 3', skorPoint);
-}
-
-function Script106()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
 }
 
 function Script107()
@@ -1469,6 +1472,12 @@ function Script146()
 
 function Script147()
 {
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script148()
+{
   var player = GetPlayer();
 
 var namaLengkap = player.GetVar('NamaLengkap');
@@ -1480,13 +1489,13 @@ SheetsSet('Kelas', kelas);
 SheetsSet('Nilai Perbaikan Asesmen Sumatif', skorPerbaikanAM);
 }
 
-function Script148()
+function Script149()
 {
   if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
         
 }
 
-function Script149()
+function Script150()
 {
   var player = GetPlayer();
 
@@ -1507,12 +1516,6 @@ SheetsSet('Nama Lengkap', namaLengkap);
 SheetsSet('Kelas', kelas);
 
 SheetsSet('Nilai Asesmen Sumatif', skorPoint);
-}
-
-function Script150()
-{
-  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
-        
 }
 
 function Script151()
@@ -1600,6 +1603,12 @@ function Script164()
 }
 
 function Script165()
+{
+  if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
+        
+}
+
+function Script166()
 {
   if(void 0===window.stencilsheets){t="https://cluelabs.com/stencil/display/widget-sheets-init-v2",s={authtool:"sl",chart:"MjU0Nnw2OTAxfDlmODMyNTY5NjUwNGU0NmRiZTEzYmNmMDQ1OTVkYjRi"},a=Object.keys(s).map(e=>encodeURIComponent(e)+"="+encodeURIComponent(s[e])).join("&");(xhttp=new XMLHttpRequest).onreadystatechange=function(){if(4==this.readyState&&200==this.status&&""!=this.responseText){var e=this.responseText,t=document.getElementsByTagName("head")[0],s=document.createElement("script");t.appendChild(s),s.appendChild(document.createTextNode(e)),window.stencilsheets=!0}},xhttp.open("POST",t,!0),xhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),xhttp.send(a)}
         
